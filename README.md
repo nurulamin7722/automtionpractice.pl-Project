@@ -1,6 +1,6 @@
 # Automation-Practice
 
-Sample (automationpractice.pl) website automation project with Selenium java
+Sample (automationpractice.pl) website automation project with Selenium Java
 
 <a href="https://automationpractice-project-report.netlify.app/"> Click here to see Allure Report. </a >
 
