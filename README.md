@@ -2,7 +2,7 @@
 
 Sample (automationpractice.pl) website automation project with Selenium java
 
-Click here to see Allure Report
+<a href="https://automationpractice-project-report.netlify.app/"> Click here to see Allure Report. </a >
 
 ## This project covers the following scenario:
 
