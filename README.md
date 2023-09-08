@@ -8,7 +8,7 @@ Click here to see Allure Report
 
 1. Visit http://automationpractice.pl/index.php.
 2. Create two new accounts.
-3. Log in using one of the new accounts.
+3. Login using one of the new accounts.
 4. Browse Casual Dresses, and add one to your cart.
 5. Visit the T-shirt section, filter by blue color, and add a shirt.
 6. Proceed to checkout and choose 'Payment by check.'
@@ -17,14 +17,14 @@ Click here to see Allure Report
 ### Run the above cycle for another user.
 
 ## This project covers the following topics:
-Java
-Maven
-Selenium
-TestNG
-Page Object Model
-Data-Driven
-Page Factory
-Allure Report
+1. Java
+2. Maven
+3. Selenium
+4. TestNG
+5. Page Object Model
+6. Data-Driven
+7. Page Factory
+8. Allure Report
 
 ## Command for run allure report
 
