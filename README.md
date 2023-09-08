@@ -1,18 +1,20 @@
 # Automation-Practice
 
-Sample (automationpractice.pl) website automation project with selenium java
+Sample (automationpractice.pl) website automation project with Selenium java
 
 Click here to see Allure Report
 
 ## This project covers the following scenario:
-Go to the URl: http://automationpractice.pl/index.php
-Create two new accounts
-Login with the any of the new account
-Go to the Casual Dresses section and add a dress into the cart
-Go to the T-shirt section > Filter the list with blue color > Add a shirt from the filter list
-Now checkout and select the payment process ‘Payment by check’
-Sign out from the account
-Run the above cycle for another user.
+
+1. Visit http://automationpractice.pl/index.php.
+2. Create two new accounts.
+3. Log in using one of the new accounts.
+4. Browse Casual Dresses, and add one to your cart.
+5. Visit the T-shirt section, filter by blue color, and add a shirt.
+6. Proceed to checkout and choose 'Payment by check.'
+7. Sign out from your account.
+
+### Run the above cycle for another user.
 
 ## This project covers the following topics:
 Java
@@ -23,15 +25,16 @@ Page Object Model
 Data-Driven
 Page Factory
 Allure Report
+
 ## Command for run allure report
 
 ### Method 1
-alllure serve [abs path of allure-results]
+allure serve [abs path of allure-results]
 
 ### Method 2
-Gnerating report: allure generate ./allure-results --clean
+Generating report: allure generate ./allure-results --clean
 
 Display report using server: allure open ./allure-report
 
 ## Git command
-Clean git cached command: git rm -rf --cached .
+Clean git cached command: git rm -rf --cached.
