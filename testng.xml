@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:\Users\amins\Documents\workspace-spring-tool-suite-4-4.19.1.RELEASE\AutomationPractice">
+        <classes>
+            <class name="testCasesPackage.T001_CreateNewAccount">
+                <methods>
+                    <include name="registration"/>
+                </methods>
+            </class>
+            <class name="testCasesPackage.T002_Login_And_Purchase">
+                <methods>
+                    <include name="loginAndPurchase"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
